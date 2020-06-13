@@ -13,9 +13,8 @@ To use the library, add a reference to Bps.Osk library. Refer to the library in 
         >
 ```
 
-Then tag a textbox with the following code:
+Then, tag a textbox with the following code:
 ```xaml
-<TextBox local:KeyboardView.TouchScreen="True">
-</TextBox>
+<TextBox local:KeyboardView.TouchScreen="True"/>
 ```
 That's it!
